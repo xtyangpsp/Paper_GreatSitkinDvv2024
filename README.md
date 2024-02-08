@@ -2,7 +2,7 @@
 This is a repository to store the scripts and results for the paper on the dv/v study at Great Sitkin.
 
 ## Requirements
-The python scripts and Jupyter notebooks need to run using `SeisGo` package, which can be found on [SeisGo](https://github.com/xtyangpsp/SeisGo) or install with `pip install seisgo`. Details of installing `SeisGo` are available on the GitHub repository page. 
+The python scripts and Jupyter notebooks need to run using `SeisGo` package, which can be found on https://github.com/xtyangpsp/SeisGo or install with `pip install seisgo`. Details of installing `SeisGo` are available on the GitHub repository page. 
 
 ## Structure
 1. Preprocessing: python scripts for downloading seismic data and computing auto-correlations.
